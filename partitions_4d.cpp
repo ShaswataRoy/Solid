@@ -372,7 +372,7 @@ void generate_topological_sequences(int nn) {
   n = nn;
   gen();
 }
-//////////////////////////////////////////////
+
 // assumes generate_topological_sequences() and calculate_1d() have been called
 
 void calculate_3d_correct(int n) {
